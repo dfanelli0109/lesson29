@@ -4,7 +4,7 @@ using System.Linq;
 namespace OverloadingGenericsLinqAlgorithms
 {
     class Overloading
-    {gkfdjgdkflgjdgjlkjgfdlgjfdgfgfdg
+    
         // Implement two overloaded methods named Display.
         // The first overloaded version takes a single parameter of type
         // int and displays that parameter in the console output.
